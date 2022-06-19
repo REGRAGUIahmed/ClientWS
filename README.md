@@ -7,4 +7,4 @@ Nous pouvons maintenant invoquer des méthodes dans d'autres machines!
 ## Résultat 
 ![image](https://user-images.githubusercontent.com/102111459/162551126-517558a3-4d57-475d-847d-e3d81acc61f5.png)  
 Nous pouvons faire la même chose mais cette fois-ci avec un client.Net  
-(Voir le repositorie 
+(Voir le repositorie Client Web Service la Version C#)
